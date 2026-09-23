@@ -21,12 +21,8 @@ To interface an LED, push button, and digital sensor with the GPIO pins of a Ras
 ---
 
 # Circuit Diagram
+<img width="1083" height="588" alt="image" src="https://github.com/user-attachments/assets/b7e14006-fdb2-47d5-9a56-10a4a2fa5b8a" />
 
----
-
-**To upload Wokwi circuit diagram**
-
----
 
 # GPIO Connections
 
@@ -164,16 +160,8 @@ except KeyboardInterrupt:
     led.value(0)
     print("Program stopped")
 ```
-
-> **Note:** The program uses MicroPython and the `machine.Pin` class for GPIO interfacing. The push button uses an internal pull-up resistor, so its state is **LOW (0) when pressed**. The sensor is assumed to provide a digital output, where **HIGH (1) indicates detection**.
-
----
-
 # Observation
-
-
-
----
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9b251dcb-0e24-463d-96da-fda1c058ebc8" />
 
 # Result
 
