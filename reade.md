@@ -21,9 +21,8 @@ To interface an LED, push button, and digital sensor with the GPIO pins of a Ras
 ---
 
 # Circuit Diagram
-<img width="1083" height="588" alt="image" src="https://github.com/user-attachments/assets/b7e14006-fdb2-47d5-9a56-10a4a2fa5b8a" />
-
-
+<img width="1133" height="515" alt="image" src="https://github.com/user-attachments/assets/45b994c8-6cd7-481a-99b9-ab925fb50143" />
+<img width="1125" height="513" alt="image" src="https://github.com/user-attachments/assets/3088b810-d898-4efc-a17b-2a7abbb0b767" />
 # GPIO Connections
 
 | Component                  | Raspberry Pi Pico Pin      | GPIO    |
@@ -161,7 +160,7 @@ except KeyboardInterrupt:
     print("Program stopped")
 ```
 # Observation
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9b251dcb-0e24-463d-96da-fda1c058ebc8" />
+<img width="988" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d803bcd-9d7d-4b1d-a28f-a8a81c846ce4" />
 
 # Result
 
